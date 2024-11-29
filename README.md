@@ -19,3 +19,5 @@ To make a folder and open the vscode from terminal, follow these steps:
 
 ```cd tmp-git-practice```
 
+``` code .```
+
