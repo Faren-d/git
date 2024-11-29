@@ -37,11 +37,11 @@ Git Lens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 We highly recommend you to install the following extensions as well for a better theme (this is a personal preference and completely optional):
 
-Material Theme Icons
+- Material Theme Icons
 
-Material Theme
+- Material Theme
 
-Material Icon Theme
+- Material Icon Theme
 
-Dark + Material
+- Dark + Material
 
