@@ -23,3 +23,22 @@ To make a folder and open the vscode from terminal, follow these steps:
 
 ### In Vscode, install the extension 'remote-wsl' if you use wsl
 
+## Extensions
+
+There are literally thousands of extensions in the VS Code marketplace with new ones coming seemingly every single day!
+
+Extensions are really important to customizing your software to suit your personal needs. So please use them!
+
+For Git we will use the following extensions:
+
+Git Graph: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+
+Git Lens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+We highly recommend you to install the following extensions as well for a better theme (this is a personal preference and completely optional):
+
+Material Theme Icons
+Material Theme
+Material Icon Theme
+Dark + Material
+
