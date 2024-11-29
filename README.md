@@ -14,6 +14,7 @@ There are many git hosting providers, such as github
 
 ## Vscode
 To make a folder and open the vscode from terminal, follow these steps:
+
 ```mkdir tmp-git-practice```
 
 ```cd tmp-git-practice```
