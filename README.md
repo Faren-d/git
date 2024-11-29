@@ -31,9 +31,9 @@ Extensions are really important to customizing your software to suit your person
 
 For Git we will use the following extensions:
 
-Git Graph: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+- Git Graph: https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
 
-Git Lens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+- Git Lens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 We highly recommend you to install the following extensions as well for a better theme (this is a personal preference and completely optional):
 
