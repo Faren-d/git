@@ -46,6 +46,9 @@ We highly recommend you to install the following extensions as well for a better
 - Dark + Material
 
 
+Note: The path to git config file for each level of configuration may be slightly different on your system. To check the path to the config file for global level for example, run git config --global --edit and check the opened file path. The same applies for the other levels.
+
+## First Time Git Setup
 
 ![git-config](https://github.com/user-attachments/assets/a6d918b7-5304-4608-b9fc-e12c7842ef19)
 
