@@ -55,4 +55,10 @@ Note: The path to git config file for each level of configuration may be slightl
 ## Exit GNU nano in Ubuntu
 ctrl+x
 
+In order to set vscode as youreditor, you need to write the following command:
 
+```$ git config --global core.editor "code --wait"```
+
+After that, you can open your .config file on your vscode by the following command:
+
+```$ git config --global --edit```
