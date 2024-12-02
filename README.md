@@ -45,3 +45,7 @@ We highly recommend you to install the following extensions as well for a better
 
 - Dark + Material
 
+## Exit GNU nano in Ubuntu
+ctrl+x
+
+
