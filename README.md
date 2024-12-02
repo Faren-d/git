@@ -46,7 +46,8 @@ We highly recommend you to install the following extensions as well for a better
 - Dark + Material
 
 
-<img src="./images/git-config.png" width="600" />
+
+![git-config](https://github.com/user-attachments/assets/a6d918b7-5304-4608-b9fc-e12c7842ef19)
 
 ## Exit GNU nano in Ubuntu
 ctrl+x
