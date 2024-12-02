@@ -66,6 +66,10 @@ You can check your settings at any time by running the command:
 
 ```git config --list```
 
+If you want to see which changes related to which level, run the following command:
+
+```$ git config --list --show-origin```
+
 
 ## Exit GNU nano in Ubuntu
 ctrl+x
