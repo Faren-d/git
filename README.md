@@ -52,6 +52,18 @@ Note: The path to git config file for each level of configuration may be slightl
 
 ![git-config](https://github.com/user-attachments/assets/a6d918b7-5304-4608-b9fc-e12c7842ef19)
 
+## Exit GNU nano in Ubuntu
+ctrl+x
+
+In order to set vscode as your editor, you need to write the following command:
+
+```$ git config --global core.editor "code --wait"```
+
+After that, you can open your .gitconfig file on your vscode by the following command:
+
+```$ git config --global --edit```
+
+
 ### Setting Your Username and Email
 
 It’s important to set your user name and email address because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
@@ -71,13 +83,3 @@ If you want to see which changes related to which level, run the following comma
 ```$ git config --list --show-origin```
 
 
-## Exit GNU nano in Ubuntu
-ctrl+x
-
-In order to set vscode as your editor, you need to write the following command:
-
-```$ git config --global core.editor "code --wait"```
-
-After that, you can open your .gitconfig file on your vscode by the following command:
-
-```$ git config --global --edit```
