@@ -52,6 +52,14 @@ Note: The path to git config file for each level of configuration may be slightl
 
 ![git-config](https://github.com/user-attachments/assets/a6d918b7-5304-4608-b9fc-e12c7842ef19)
 
+### Setting Your Username and Email
+
+It’s important to set your user name and email address because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
+
+```$ git config --global user.name "John Doe"```
+```$ git config --global user.email```
+
+
 ## Exit GNU nano in Ubuntu
 ctrl+x
 
