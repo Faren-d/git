@@ -21,7 +21,7 @@ To make a folder and open the vscode from terminal, follow these steps:
 
 ``` code .```
 
-### In Vscode, install the extension 'remote-wsl' if you use wsl
+In Vscode, install the extension 'remote-wsl' if you use wsl
 
 ## Extensions
 
