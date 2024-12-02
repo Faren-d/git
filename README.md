@@ -60,6 +60,12 @@ It’s important to set your user name and email address because every Git commi
 
 ```$ git config --global user.email "-----"```
 
+### Checking Your Settings
+
+You can check your settings at any time by running the command:
+
+```git config --list```
+
 
 ## Exit GNU nano in Ubuntu
 ctrl+x
