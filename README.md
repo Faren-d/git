@@ -104,3 +104,12 @@ main.py is another regular file
 
 The ```-a``` flag (which stands for "all") ensures that even hidden files and the . and .. directory references are displayed, unlike a standard ls command which would typically only show the regular files (file.txt and main.py).
 
+### Initializing a Repository in an Existing Directory
+
+If you have a project directory that is currently not under version control and you want to start controlling it with Git, you first need to go to that project’s directory.
+
+and type:
+``` git init```
+
+
+
