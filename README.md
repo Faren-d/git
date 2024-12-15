@@ -117,3 +117,12 @@ and type:
 
 if you want to add a file (i.e. file.txt) for snapshots and saving the changes, you can run: ```git add file.txt```
 
+### Cloning an Existing Repository
+
+If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command you need is git clone.
+
+You clone a repository with git clone <url>. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
+
+```$ git clone https://github.com/libgit2/libgit2```
+
+But, make sure you first ```cd``` to the directory that you want to clone.
