@@ -111,5 +111,9 @@ If you have a project directory that is currently not under version control and 
 and type:
 ``` git init```
 
+#### Helpful commands
 
+```git status```
+
+if you want to add a file (i.e. file.txt) for snapshots and saving the changes, you can run: ```git add file.txt```
 
