@@ -93,4 +93,14 @@ If you want to see which changes related to which level, run the following comma
 
 ```$ git config --list --show-origin```
 
+### Listing all files and directories
+
+The ```ls -a``` command lists all files and directories in the current directory, including hidden files (those that start with a dot .). Let me break down the output you've shown:
+
+```.``` represents the current directory
+```..``` represents the parent directory
+file.txt is a regular file
+main.py is another regular file
+
+The -a flag (which stands for "all") ensures that even hidden files and the . and .. directory references are displayed, unlike a standard ls command which would typically only show the regular files (file.txt and main.py).
 
