@@ -28,5 +28,8 @@ The main tool you use to determine which files are in which state is the git sta
 
 ```$ git status```
 
+### Tracking New Files
+In order to begin tracking a new file, you use the command ```git add```.
+```$ git add README```
 
 
