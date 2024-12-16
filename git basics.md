@@ -31,5 +31,7 @@ The main tool you use to determine which files are in which state is the git sta
 ### Tracking New Files
 In order to begin tracking a new file, you use the command ```git add```.
 ```$ git add README```
-
-
+### Short Status
+Git also has a short status flag so you can see your changes in a more compact way. If you run ```git status -s``` or ```git status --short``` you get a far more simplified output from the command:
+```$ git status -s```
+New files that aren’t tracked have a ```??``` next to them
