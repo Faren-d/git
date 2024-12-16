@@ -19,3 +19,14 @@ You clone a repository with git clone . For example, if you want to clone the Gi
 ```$ git clone https://github.com/libgit2/libgit2```
 
 But, make sure you first cd to the directory that you want to clone.
+
+#### The lifecycle of the status of your files
+![image](https://github.com/user-attachments/assets/08763e5e-73f9-4a81-8340-8820e5e398d2)
+
+### Checking the Status of Your Files
+The main tool you use to determine which files are in which state is the git status command.
+
+```$ git status```
+
+
+
