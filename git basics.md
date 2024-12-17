@@ -56,3 +56,10 @@ In order to begin tracking a new file, you use the command ```git add```.
 Git also has a short status flag so you can see your changes in a more compact way. If you run ```git status -s``` or ```git status --short``` you get a far more simplified output from the command:
 ```$ git status -s```
 New files that aren’t tracked have a ```??``` next to them
+
+## Ignoring files
+For a list of patterns that can be used in ```.gitignore``` files, you can check the following:
+
+https://git-scm.com/docs/gitignore#_pattern_format
+
+this link or Atlassian gitignore guide.
