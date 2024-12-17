@@ -20,7 +20,8 @@ You clone a repository with git clone . For example, if you want to clone the Gi
 
 But, make sure you first cd to the directory that you want to clone.
 
-### Working tree, staging area, and Git directory
+#### Three main sections of a Git project 
+Working tree, staging area, and Git directory
 ![image](https://github.com/user-attachments/assets/cc99537b-82bd-46fd-96fe-8362c064691a)
 
 
