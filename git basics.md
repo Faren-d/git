@@ -32,7 +32,7 @@ Working tree, staging area, and Git directory
 
 Each file in a Git repository can be in one of two main states: tracked or untracked.
 
-● 1. Tracked files are files that Git is aware of because they were either in the last snapshot of the repository or have been newly staged, meaning they have been marked to be included in the next snapshot. The last snapshot is located in the Git directory. These files can be further classified as unmodified, modified, or staged:
+● 1. Tracked files: are files that Git is aware of because they were either in the last snapshot of the repository or have been newly staged, meaning they have been marked to be included in the next snapshot. The last snapshot is located in the Git directory. These files can be further classified as unmodified, modified, or staged:
 
 ○ Unmodified: The file hasn't changed since the last commit.
 
@@ -40,7 +40,7 @@ Each file in a Git repository can be in one of two main states: tracked or untra
 
 ○ Staged: You use ```git add <filename>``` to begin tracking the modified file, which moves it to the staged state. This will mark it to be included in the next snapshot or commit. 
 
-● 2. Untracked files are any files within the working directory that Git doesn't know about because they were not present in the last snapshot and aren't in the staging area. When you clone a repository for the first time, all files are tracked and unmodified because Git just checked them out, and you haven't changed anything yet. As you begin to edit files, they become modified.
+● 2. Untracked files: Any file that is created is initially untracked. They are within the working directory that Git doesn't know about them because they were not present in the last snapshot and aren't in the staging area. When you clone a repository for the first time, all files are tracked and unmodified because Git just checked them out, and you haven't changed anything yet. As you begin to edit files, they become modified.
 
 
 ### Checking the Status of Your Files
