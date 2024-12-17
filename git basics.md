@@ -58,8 +58,5 @@ Git also has a short status flag so you can see your changes in a more compact w
 New files that aren’t tracked have a ```??``` next to them
 
 ## Ignoring files
-For a list of patterns that can be used in ```.gitignore``` files, you can check the following:
+For a list of patterns that can be used in ```.gitignore``` files, you can check [the link](https://git-scm.com/docs/gitignore#_pattern_format) and [Atlassian gitignore guide](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 
-https://git-scm.com/docs/gitignore#_pattern_format
-
-this link or Atlassian gitignore guide.
